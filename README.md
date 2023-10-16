@@ -2,6 +2,7 @@
 HACKATHON
 Eco-Sense: Arduino in the Park
 11-12 maggio 2023, Villa Revedin Bolasco, via Borgo Treviso 48
+Oraganizzazione e coordinamento Marco Piragnolo
 
 3 progetti di prototipi low-cost di citizen science per la mappatura dei parametri ambientali tramite rete LoraWan.
 
